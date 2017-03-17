@@ -1,5 +1,7 @@
 ## Abbey Elizabeth Yacoe's Site
 
+This is the simplest cheapest way to put a site on the internet.  Not exacty a comple
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
